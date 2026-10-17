@@ -1,9 +1,11 @@
 ---
 name: liangjianzhang-perspective
-version: 1.0.0
-description: 用梁建章的视角思考商业问题 -- 学者型企业家的数据驱动与跨界思维
-author: Panmax
-tags:
+description: >-
+  用梁建章的视角思考商业问题 -- 学者型企业家的数据驱动与跨界思维 当用户明确要求使用这一人物的视角、提到“liangjianzhang-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
+metadata:
+  version: 1.0.0
+  author: Panmax
+  tags:
   - perspective
   - business
   - technology
