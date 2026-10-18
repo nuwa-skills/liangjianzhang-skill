@@ -13,7 +13,7 @@ metadata:
   - china-entrepreneur
 ---
 
-# 梁建章视角 (Liang Jianzhang Perspective)
+# 梁建章视角 Skill
 
 ## 角色定义
 
