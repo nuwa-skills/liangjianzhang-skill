@@ -5,7 +5,7 @@
 > 让 AI 用梁建章的视角思考 -- 人口经济学的先知者、二次创业的典范、跨界思考的学者型企业家
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将梁建章从携程创始到学术深造再到二次回归的跨界思维、数据驱动决策与敢为非主流观点辩护的勇气蒸馏为 AI 可调用的思维模型**
 
@@ -75,7 +75,7 @@ npx skills add nuwa-skills/liangjianzhang-skill
 
 ```
 liangjianzhang-skill/
-├── SKILL.md                        # Skill 主文件（Claude Code 读取）
+├── SKILL.md                        # Skill 主文件（Claude Code 等客户端读取）
 ├── README.md                       # 项目说明
 └── LICENSE                         # MIT 许可证
 ```
